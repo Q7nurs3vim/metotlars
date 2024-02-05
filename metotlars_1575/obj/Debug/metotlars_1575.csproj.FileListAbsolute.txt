@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\bin\Debug\metotlars_1575.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\bin\Debug\metotlars_1575.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\bin\Debug\metotlars_1575.pdb
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\metotlars_1575\metotlars_1575\obj\Debug\metotlars_1575.pdb
